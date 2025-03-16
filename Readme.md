@@ -24,6 +24,7 @@ The model is built using a **dual SegFormer encoder** and consists of:
 - **Two SegFormer encoders** (one for optical imagery, one for SAR imagery)
 - **Channel Attention Fusion** for feature extraction
 - **SegFormer decoder** for generating segmentation maps
+- ![Pre-Disaster](http://github.com/jatinsahu1708/AI-Based-Disaster-Damage-Assessment-Using-Pre-disaster-and-Post-disaster-Satellite-images/raw/main/Screenshot%202025-03-16%20215029.png)
 
 This architecture improves multimodal image fusion, leading to more accurate classification.
 
@@ -48,7 +49,7 @@ Below are some segmentation results comparing predicted and ground truth images:
 
 | Pre-Disaster Image | Post-Disaster Image | Predicted Segmentation | Ground Truth |
 |--------------------|--------------------|------------------------|-------------|
-| ![Pre-Disaster](path/to/image) | ![Post-Disaster](path/to/image) | ![Predicted](path/to/image) | ![Ground Truth](path/to/image) |
+| ![Pre-Disaster](https://github.com/jatinsahu1708/AI-Based-Disaster-Damage-Assessment-Using-Pre-disaster-and-Post-disaster-Satellite-images/raw/main/la_palma-volcano_00000279_pre_disaster.png)| ![Post-Disaster](https://github.com/jatinsahu1708/AI-Based-Disaster-Damage-Assessment-Using-Pre-disaster-and-Post-disaster-Satellite-images/raw/main/la_palma-volcano_00000279_post_disaster.png) | ![Predicted](https://github.com/jatinsahu1708/AI-Based-Disaster-Damage-Assessment-Using-Pre-disaster-and-Post-disaster-Satellite-images/raw/main/output_pred_mask_colored_1.png)| ![Ground Truth](https://github.com/jatinsahu1708/AI-Based-Disaster-Damage-Assessment-Using-Pre-disaster-and-Post-disaster-Satellite-images/raw/main/output_gt_mask_colored_1.png) |
 
 ## **6. Evaluation Metrics**
 The following metric was used to evaluate the model:
