@@ -54,8 +54,8 @@ Below are some segmentation results comparing predicted and ground truth images:
 ## **6. Evaluation Metrics**
 The following metric was used to evaluate the model:
 - **Mean Intersection over Union (mIoU)**
-  - **mIoU with Lovász + WCE Loss**: `0.6322`
-  - **mIoU with Dice + Focal Loss**: `0.62`
+  - **mIoU with Lovász + WCE Loss**: `0.6622`
+  - **mIoU with Dice + Focal Loss**: `0.65`
 
 ## **8. Future Improvements**
 - Enhance **generalization** across different disaster types
