@@ -1,4 +1,4 @@
-# **AI Based Disaster Damage Assessment Using Pre-disaster and Post disaster Satellite images**
+# **AI Based Disaster Damage Assessment Using Pre disaster and Post disaster Satellite images**
 
 ## **1. Problem Statement**
 Disasters such as earthquakes, floods, and hurricanes cause significant damage to infrastructure, requiring rapid and accurate damage assessments. Traditional manual inspection methods are slow, hazardous, and often unreliable.  
