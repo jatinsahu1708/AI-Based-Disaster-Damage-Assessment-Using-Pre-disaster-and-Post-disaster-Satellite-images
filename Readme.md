@@ -41,8 +41,8 @@ This architecture improves multimodal image fusion, leading to more accurate cla
 
 ## **5. Results**
 The model achieved:
-- **mIoU = 0.6322** with **Lovász + WCE Loss**
-- **mIoU = 0.62** with **Dice + Focal Loss**
+- **mIoU = 0.6622** with **Lovász + WCE Loss**
+- **mIoU = 0.65** with **Dice + Focal Loss**
 
 ### **Result Visualization**
 Below are some segmentation results comparing predicted and ground truth images:
